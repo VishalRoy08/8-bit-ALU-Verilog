@@ -154,6 +154,7 @@ This project was developed during the **Internshala VLSI Design Training** while
 **Vishal Roy**
 
 Electronics & Communication Engineering Student
+
 GitHub: https://github.com/VishalRoy08
 
 ---
