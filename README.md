@@ -131,6 +131,12 @@ Through this project, I gained practical experience in:
 
 ---
 
+## Academic Context
+
+This project was developed as part of the **Internshala VLSI Design Training**. It demonstrates the application of Verilog HDL concepts, digital logic design, and functional verification using Xilinx Vivado.
+
+---
+
 ## Future Improvements
 
 - Add Carry, Zero, Overflow, and Sign flags
