@@ -133,7 +133,9 @@ Through this project, I gained practical experience in:
 
 ## Academic Context
 
-This project was developed as part of the **Internshala VLSI Design Training**. It demonstrates the application of Verilog HDL concepts, digital logic design, and functional verification using Xilinx Vivado.
+## Academic Context
+
+This project was developed during the **Internshala VLSI Design Training** while pursuing a Bachelor's degree in **Electronics & Communication Engineering** at **Faculty Of Technology, University Of Delhi**.
 
 ---
 
